@@ -1,0 +1,2 @@
+2023/04/09 16:35:04 - [ 🤖 ] Iniciando processamento do minerador!
+2023/04/09 16:35:04 - [ 🔑 ] Usuário: 14975209756_000010

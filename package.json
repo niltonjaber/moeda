@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "builder": "^5.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dom": "^0.0.3",
+    "fs": "^0.0.1-security",
+    "fs-temp": "^2.0.1",
+    "jquery": "^3.6.4",
+    "jsdom": "^21.1.1",
+    "puppeteer": "^18.0.5",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.6",
+    "strftime": "^0.10.1",
+    "temp": "^0.9.4",
+    "xmlbuilder": "^15.1.1",
+    "xmlbuilder2": "^3.0.2"
+  },
+  "devDependencies": {
+    "chromedriver": "^106.0.1",
+    "selenium-webdriver": "^4.5.0",
+    "webdriverio": "^7.25.1"
+  }
+}

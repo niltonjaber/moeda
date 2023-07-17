@@ -1,0 +1,4 @@
+2023/04/09 17:06:47 - [ 🤖 ] Iniciando processamento do minerador!
+2023/04/09 17:06:47 - [ 🔑 ] Usuário: 14975209756_000010
+2023/04/09 17:06:47 - [ ⏰ ] Preparando para extrair os dados do HTML da página!
+2023/04/09 17:06:47 - [ 🌐 ] URL: https://c6.c6consig.com.br/WebAutorizador/MenuWeb/Esteira/AprovacaoConsulta/UI.AprovacaoConsultaAnd.aspx?FISession=2a80e533d4be
